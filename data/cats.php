@@ -92,12 +92,12 @@ $_SESSION['item'][9]['theme'] = 'cats';
 $_SESSION['item'][9]['filename'] = 'data/images/cats/christchurch.jpg';
 $_SESSION['item'][9]['rating'] = 0;
 
-$_SESSION['item'][9]['name'] = 'Hello world';
-$_SESSION['item'][9]['rank'] = 11;
-$_SESSION['item'][9]['caption'] = 'Eiei Cat';
-$_SESSION['item'][9]['trivia'] = "<p>Hello world. </p> <p style='color:silver;font-size:80%;font-style:italic'>Like me and we can geek out on LOTR trivia for hours on end. </p>";
-$_SESSION['item'][9]['theme'] = 'cat';
-$_SESSION['item'][9]['filename'] = 'data/images/cats/car.jpg';
-$_SESSION['item'][9]['rating'] = 0;
+$_SESSION['item'][10]['name'] = 'Hello world';
+$_SESSION['item'][10]['rank'] = 11;
+$_SESSION['item'][10]['caption'] = 'Eiei Cat';
+$_SESSION['item'][10]['trivia'] = "<p>Hello world. </p> <p style='color:silver;font-size:80%;font-style:italic'>Like me and we can geek out on LOTR trivia for hours on end. </p>";
+$_SESSION['item'][10]['theme'] = 'cat';
+$_SESSION['item'][10]['filename'] = 'data/images/cats/car.jpg';
+$_SESSION['item'][10]['rating'] = 0;
 
 ?>
